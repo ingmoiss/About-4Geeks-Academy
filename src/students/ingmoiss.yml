@@ -1,0 +1,58 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Moises
+    last_name: Navarro
+    
+    # focus
+    focus: Developer Full Stack
+    
+ 
+    # Contact Information
+    email: moi55navacor@gmail.com 
+    phone: 8529-8596
+    website: https://ingmoiss.github.io/My-page/
+    linkedin:  #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: ingmoiss
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Basico
+
+# Your previous education
+education:
+    - degree: Ingenieria Informatica
+      university: UNED
+
+skills:
+    toolset:
+      - name: Java
+        level: 80%
+
+      - name: Javascript
+        level: 60%
+
+      - name: C# .Net FrameWork
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: SQL
+        level: 90%
